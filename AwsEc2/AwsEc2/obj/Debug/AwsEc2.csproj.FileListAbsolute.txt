@@ -1,0 +1,12 @@
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\bin\Debug\AwsEc2.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\obj\Debug\AwsEc2.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\bin\Debug\AwsEc2.exe
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\bin\Debug\AwsEc2.pdb
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\bin\Debug\AWSSDK.Core.dll
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\bin\Debug\AWSSDK.EC2.dll
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\bin\Debug\AWSSDK.S3.dll
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\bin\Debug\AWSSDK.Core.xml
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\bin\Debug\AWSSDK.S3.xml
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\bin\Debug\AWSSDK.EC2.xml
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\obj\Debug\AwsEc2.exe
+c:\users\alan\documents\visual studio 2015\Projects\AwsEc2\AwsEc2\obj\Debug\AwsEc2.pdb
